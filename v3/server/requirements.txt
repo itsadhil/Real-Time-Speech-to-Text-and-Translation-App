@@ -1,0 +1,22 @@
+## Server packages
+pyaudio
+pycryptodome
+pickle
+
+# Audio model packages
+datasets
+librosa
+numpy
+sentencepiece
+transformers
+
+# Whisper Audio RT
+pyaudio
+SpeechRecognition
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+git+https://github.com/openai/whisper.git
+
+# Jupyter notebooks
+ipython
+ipykernel
